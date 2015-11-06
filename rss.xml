@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tech Thumbs]]></title>
+        <description><![CDATA[Tech Thumbs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 16:02:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BlackBerry looks for reboot with Android-powered Priv - FT.com]]></title>
+            <description><![CDATA[<article><h1>BlackBerry looks for reboot with Android-powered Priv - FT.com</h1><p>BlackBerry is betting its future on a novel twist to its much-loved keyboard and the belated use of Google's Android operating system after years relying on its own software. Priv, the Canadian group's latest device, will feature a slide-down</p><img src="http://im.ft-static.com/content/images/03d45575-62f7-4ac1-9db4-411df18e7faa.img"></article>]]></description>
+            <link>https://next.ft.com/content/3854f9ec-83d1-11e5-8e80-1574112844fd</link>
+            <guid isPermaLink="false">2e568c86-c610-43da-a38d-301c42492651</guid>
+            <pubDate>Fri, 06 Nov 2015 16:02:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
